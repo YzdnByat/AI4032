@@ -9,6 +9,6 @@ This mini-project focuses on the design and implementation of fuzzy systems for 
 
 
 - Function Approximation: Approximating unknown functions using fuzzy systems, including a time-series prediction problem (Mackey-Glass series) using a lookup table.
-- 
+
 
 - Fuzzy Control: Designing a fuzzy controller to guide a 2D mobile robot to a target position. The controller uses distance and angle differences as inputs to generate appropriate linear and angular velocities.
