@@ -1,4 +1,4 @@
-# AI4032_MP1 - Titanic Survival Prediction & Linear Regression
+# AI4032_MP1 - Linear Regression
 
 This mini-project focuses on data analysis and regression modeling using the 
 
